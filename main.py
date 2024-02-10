@@ -4,7 +4,6 @@ credentials = {'user_username': user, 'pass_password': pass1}
 
 passwords = {}
 
-
 def login():
     entered_user = input('Enter your username: ')
     entered_pass = input('Enter your password: ')
